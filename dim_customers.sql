@@ -17,3 +17,4 @@ LEFT JOIN
     dbo.geography g  -- Specifies the alias 'g' for the dim_geography table
 ON 
     c.GeographyID = g.GeographyID;  -- Joins the two tables on the GeographyID field to match customers with their geographic information
+
