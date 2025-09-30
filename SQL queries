@@ -1,4 +1,4 @@
--- SQL statement to join dim_customers with dim_geography to enrich customer data with geographic information
+--  SQL statement to join dim_customers with dim_geography to enrich customer data with geographic information 
 
 SELECT 
     c.CustomerID,  -- Selects the unique identifier for each customer
@@ -20,6 +20,7 @@ ON
 
 
 
+
 -- SQL Query to categorize products based on their price
 
 SELECT 
@@ -36,6 +37,8 @@ SELECT
 
 FROM 
     dbo.products;  -- Specifies the source table from which to select the data
+
+
 
 
 -- Common Table Expression (CTE) to identify and tag duplicate records
@@ -101,6 +104,7 @@ WHERE
 
 
 
+
 -- Query to clean whitespace issues in the ReviewText column
 
 SELECT 
@@ -113,6 +117,7 @@ SELECT
     REPLACE(ReviewText, '  ', ' ') AS ReviewText
 FROM 
     dbo.customer_reviews;  -- Specifies the source table from which to select the data
+
 
 
 -- Query to clean and normalize the engagement_data table
@@ -132,6 +137,7 @@ FROM
     dbo.engagement_data  -- Specifies the source table from which to select the data
 WHERE 
     ContentType != 'Newsletter';  -- Filters out rows where ContentType is 'Newsletter' as these are not relevant for our analysis
+
 
 
 
