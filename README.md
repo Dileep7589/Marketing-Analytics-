@@ -56,7 +56,40 @@ Imported processed data from SQL Server into Power BI.
 
 Designed interactive dashboards to visualize insights (engagement trends, conversion funnel, customer feedback patterns).
 
+## Outcomes ##
 
+### Conversion Rate Trends
+
+Identified seasonal peaks (e.g., January & July high conversions) and weak months (e.g., May lowest at 4.3%).
+
+Pinpointed drop-off stages in the conversion funnel → helped suggest targeted interventions.
+
+### Customer Engagement Insights
+
+Engagement (views, clicks, likes) declined in later months.
+
+Blog content generated highest views, but clicks and likes were relatively low → need for more engaging formats.
+
+Click-through rate (15.37%) showed that users who engaged were still interacting effectively.
+
+### Customer Feedback Analysis
+
+Average rating ~3.7 (below target 4.0).
+
+The majority of reviews were positive (4–5 stars), but recurring negative/mixed feedback highlighted improvement areas.
+
+Sentiment analysis revealed opportunities to convert mixed reviews into positive experiences.
+
+### Actionable Recommendations
+
+Focus on high-performing products (e.g., Ski Boots, Kayaks) during peak months.
+
+Experiment with interactive/social content to boost engagement.
+
+Implement a feedback loop to address negative/mixed reviews and improve satisfaction.
+
+
+The project delivered data-driven insights into conversion patterns, engagement trends, and customer feedback, which helped ShopEasy identify where to optimize marketing efforts and improve customer experience
 
 
 
