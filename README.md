@@ -25,25 +25,36 @@ Average amount spent by a customer per transaction.
 Average rating from customer reviews.
 
 ## My Approach ## 
-Data Extraction with SQL:
+### 1. Data Extraction with SQL:
 Performed data cleaning and created separate tables for structured datasets.
-### Joined Tables:
+### 2. Joined Tables:
 
 Combined multiple datasets (e.g., customer details, transaction logs, marketing data) using JOIN queries.
 
 Ensured relationships (like CustomerID, ProductID) were used to merge records accurately.
 
-### Separated Key Records
+### 3. Separated Key Records
 
 Extracted specific fields into separate tables for clarity and analysis.
 
 #### Example:
-
 Comments Table → customer feedback, reviews.
 
 Views Table → page views, clicks, impressions.
 
 Transactions Table → orders, conversions, payments.
+
+### Sentiment Analysis (Python in VS Code)
+
+Imported cleaned data into Python environment.
+
+Applied sentiment analytics using Python libraries (e.g., NLTK, TextBlob, or similar).
+
+## Data Visualisation (Power BI)
+
+Imported processed data from SQL Server into Power BI.
+
+Designed interactive dashboards to visualize insights (engagement trends, conversion funnel, customer feedback patterns).
 
 
 
