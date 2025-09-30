@@ -50,7 +50,7 @@ Imported cleaned data into Python environment.
 
 Applied sentiment analytics using Python libraries (e.g., NLTK, TextBlob, or similar).
 
-## Data Visualisation (Power BI)
+### Data Visualisation (Power BI)
 
 Imported processed data from SQL Server into Power BI.
 
