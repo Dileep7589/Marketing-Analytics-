@@ -25,15 +25,15 @@ Average amount spent by a customer per transaction.
 Average rating from customer reviews.
 
 ## 4. My Approach ## 
-### 1. Data Extraction with SQL:
+### Data Extraction with SQL:
 Performed data cleaning and created separate tables for structured datasets.
-### 2. Joined Tables:
+### Joined Tables:
 
 Combined multiple datasets (e.g., customer details, transaction logs, marketing data) using JOIN queries.
 
 Ensured relationships (like CustomerID, ProductID) were used to merge records accurately.
 
-### 3. Separated Key Records
+### Separated Key Records
 
 Extracted specific fields into separate tables for clarity and analysis.
 
