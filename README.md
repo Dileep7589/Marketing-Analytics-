@@ -1,5 +1,5 @@
 # Marketing Analytics(Using SQL, Python and Power BI) #
-## Objective: ##
+## Objective ##
 To use marketing analytics to identify the factors behind ShopEasy’s reduced customer engagement, low conversion rates, and suboptimal customer feedback, and to provide data-driven recommendations that improve customer engagement, increase conversion rates, and enhance customer satisfaction while optimising marketing costs.
 
 ## Challenges ##
@@ -23,6 +23,32 @@ Average amount spent by a customer per transaction.
 
 ### Customer Feedback Score:
 Average rating from customer reviews.
+
+## My Approach ## 
+Data Extraction with SQL:
+Performed data cleaning and created separate tables for structured datasets.
+Joined Tables
+
+Combined multiple datasets (e.g., customer details, transaction logs, marketing data) using JOIN queries.
+
+Ensured relationships (like CustomerID, ProductID) were used to merge records accurately.
+
+Separated Key Records
+
+Extracted specific fields into separate tables for clarity and analysis.
+
+Example:
+
+Comments Table → customer feedback, reviews.
+
+Views Table → page views, clicks, impressions.
+
+Transactions Table → orders, conversions, payments.
+
+
+
+
+
 
 
 
