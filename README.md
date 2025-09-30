@@ -27,17 +27,17 @@ Average rating from customer reviews.
 ## My Approach ## 
 Data Extraction with SQL:
 Performed data cleaning and created separate tables for structured datasets.
-Joined Tables
+### Joined Tables:
 
 Combined multiple datasets (e.g., customer details, transaction logs, marketing data) using JOIN queries.
 
 Ensured relationships (like CustomerID, ProductID) were used to merge records accurately.
 
-Separated Key Records
+### Separated Key Records
 
 Extracted specific fields into separate tables for clarity and analysis.
 
-Example:
+#### Example:
 
 Comments Table → customer feedback, reviews.
 
