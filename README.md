@@ -3,13 +3,13 @@
 To use marketing analytics to identify the factors behind ShopEasy’s reduced customer engagement, low conversion rates, and suboptimal customer feedback, and to provide data-driven recommendations that improve customer engagement, increase conversion rates, and enhance customer satisfaction while optimising marketing costs.
 
 ## Challenges ##
-1. Reduced Customer Engagement – Declining interactions with website and marketing content.
+Reduced Customer Engagement → Declining interactions with website & marketing content.
 
-2. Decreased Conversion Rates – Visitors are not converting into paying customers.
+Decreased Conversion Rates → Visitors not converting into paying customers.
 
-3. High Marketing Expenses – Increased spending on campaigns without expected ROI.
+High Marketing Expenses → Rising campaign costs without expected ROI.
 
-4. Need for Customer Feedback Analysis – Lack of insights from reviews/social media to improve
+Lack of Customer Feedback Insights → Limited use of reviews/social media for improvements.
 
 ## Key Performance Indicators (KPIs) ##
 ### Conversion Rate:
